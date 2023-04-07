@@ -5,15 +5,18 @@ Initially create a repository in the git hub and clone it to the local machine b
 to the gitclone cmd in the cmd prompt by changing the directory in the local machine
 
 ......
+
 cd <path of the local machine directory>
 git clone <path from the git hub link>
 
 code
 .........
+
 To open vs code
 
 
 Step 1: Create an environment
+
 ''''
 conda create -p venv python==3.8
 conda activate venv\
