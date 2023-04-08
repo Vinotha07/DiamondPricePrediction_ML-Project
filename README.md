@@ -42,4 +42,13 @@ Step 6: Create components and the pipeline folders under src folder.
 
 Step 7: Add __init__.py file(module) in the folder so that we can import that folder as the package.
 
+Step8: Get the dataset and store it in the Data folder under the notebook folder to perform EDA and the model training
+
+Step 9: create EDA.ipynb file to perform the EDA
+
+step 10: Create model training.ipynb file to perform Model training
+
+Step 11: Write code for logging and custom exception .
+
+
 

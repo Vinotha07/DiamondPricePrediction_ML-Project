@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 from typing import List
 
-HYPHEN_E_DOT="-e."
+HYPHEN_E_DOT='-e .'
 
 def get_requirements(file_path:str)->List[str]:
     requirements=[]
@@ -20,7 +20,10 @@ def get_requirements(file_path:str)->List[str]:
 
 setup(
     name="Housing_Regression_Project",
-    author="Vinotha N",
+    version='0.0.1',
+
+    
+    author='vino',
     author_email="vino@gmail.com",
     install_requires=get_requirements("requirements.txt"),
     packages=find_packages()
