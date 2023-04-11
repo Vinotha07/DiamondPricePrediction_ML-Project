@@ -50,5 +50,9 @@ step 10: Create model training.ipynb file to perform Model training
 
 Step 11: Write code for logging and custom exception .
 
+Step 12: Write code for utils if we have any common function
+
+Step 13: Write code for data ingestion , for that we require what are the input and output from this step and saved that into artifacts.
+
 
 
