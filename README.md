@@ -54,5 +54,13 @@ Step 12: Write code for utils if we have any common function
 
 Step 13: Write code for data ingestion , for that we require what are the input and output from this step and saved that into artifacts.
 
+Step 14: Write code for data transformation where we can apply pipeline and transform the columns by applying feature scaling and convert that into pickle file
+
+Step 15: Write a code for the saving pickle file in the utils file since it can use commonly
+
+step 16: Write code for model training where we can split the dataset into dependent and independent feature and perform the model training and convert them into pickle file.
+
+step 17: write a function in utils file to perform the evaluation of the model
+
 
 
