@@ -62,5 +62,7 @@ step 16: Write code for model training where we can split the dataset into depen
 
 step 17: write a function in utils file to perform the evaluation of the model
 
+step 18: write a code for the steps to be followed to execute in the training pipeline file
+
 
 
