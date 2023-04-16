@@ -60,6 +60,11 @@ class CustomData:
                 'cut':[self.cut],
                 'color':[self.color],
                 'clarity':[self.clarity],
-            }    
+            }  
+
+        except Exception as e:
+            logging.info("Error Occured at custom data")
+            raise CustomException(e,sys)
+
         
         
