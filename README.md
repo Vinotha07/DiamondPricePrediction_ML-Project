@@ -64,5 +64,8 @@ step 17: write a function in utils file to perform the evaluation of the model
 
 step 18: write a code for the steps to be followed to execute in the training pipeline file
 
+step 19: write a code for prediction pipeline by adding the load file function in the utils.
+
+
 
 
