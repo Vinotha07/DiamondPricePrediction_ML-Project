@@ -64,7 +64,14 @@ step 17: write a function in utils file to perform the evaluation of the model
 
 step 18: write a code for the steps to be followed to execute in the training pipeline file
 
-step 19: write a code for prediction pipeline by adding the load file function in the utils.
+step 19: write a code for prediction pipeline by adding the load file function for unpack the pickle file in the utils.
+
+step 20: write code to get the custom data and convert that into dataframe in the pipeline module
+
+step 21: Create app.py under the main folder to define the flask 
+
+step22:create the folder template where we can create the html files for index, form and result.
+
 
 
 

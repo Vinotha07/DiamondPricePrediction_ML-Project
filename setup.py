@@ -19,7 +19,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name="Housing_Regression_Project",
+    name="Gemstone_Regression_Project",
     version='0.0.1',
 
     

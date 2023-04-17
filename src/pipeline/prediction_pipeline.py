@@ -61,6 +61,9 @@ class CustomData:
                 'color':[self.color],
                 'clarity':[self.clarity],
             }  
+            df=pd.DataFrame(custom_data_input_dict)
+            logging.info('Dataframe gathered')
+            return df
 
         except Exception as e:
             logging.info("Error Occured at custom data")
