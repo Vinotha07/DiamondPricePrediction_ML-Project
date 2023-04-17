@@ -1,4 +1,4 @@
-# Housing_ML-Project
+# DiamondPricePrediction_ML-Project
 This project helps us to understand the Regression 
 
 Initially create a repository in the git hub and clone it to the local machine by adding the github link 
