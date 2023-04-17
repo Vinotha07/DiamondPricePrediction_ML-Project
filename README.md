@@ -72,6 +72,17 @@ step 21: Create app.py under the main folder to define the flask
 
 step22:create the folder template where we can create the html files for index, form and result.
 
+Step23:Once we get the output in the local host 127.0.0.1:5000
+we can deploy it by using azure or aws beanstack or docker+github action+aws ec2+ecr or container registry+docker+azure web app+github action.
+
+Step24. If we use AWS beanstalk we need to create a file .ebextensions in the project folder and change the app.py file name into application.py . the source code from the github is connected to the aws beanstalk via codepipeline
+
+step25: app.py retain as it is. create resource in the azure to create a webapp. git hub action settings should be enabled and the set the security questions.
+
+step26: we can dockerize the entire code and convert that into the docker image. when docker image runs it create the container or environment where it install all the dependencies and run the application. In AWS the docker image is stored in the ECR REPOSITORY and the AWS EC2 , IAM USER are used for deployment. for this we need to create the .github folder in the project folder under taht create workflows folder under taht create main.yaml file for continous integration and continuous deployment.
+
+
+
 
 
 
